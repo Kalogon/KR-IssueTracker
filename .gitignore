@@ -3,7 +3,7 @@ spark-warehouse/
 project/
 output/
 lib/
-src/main/scala/
+src/main/scala/tutorial
 datas
 shell/
 .../
