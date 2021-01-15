@@ -4,6 +4,7 @@ project/
 output/
 lib/
 src/main/scala/tutorial
+Test.scala
 datas
 shell/
 .../
